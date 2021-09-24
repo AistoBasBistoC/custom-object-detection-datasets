@@ -1,0 +1,425 @@
+{
+	"masks":
+	{
+		"images/1.png":
+		{
+			"mask": "masks/1.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/2.png":
+		{
+			"mask": "masks/2.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/3.png":
+		{
+			"mask": "masks/3.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/4.png":
+		{
+			"mask": "masks/4.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/5.png":
+		{
+			"mask": "masks/5.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/6.png":
+		{
+			"mask": "masks/6.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/7.png":
+		{
+			"mask": "masks/7.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/8.png":
+		{
+			"mask": "masks/8.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/9.png":
+		{
+			"mask": "masks/9.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/10.png":
+		{
+			"mask": "masks/10.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/11.png":
+		{
+			"mask": "masks/11.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/12.png":
+		{
+			"mask": "masks/12.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/13.png":
+		{
+			"mask": "masks/13.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/14.png":
+		{
+			"mask": "masks/14.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/15.png":
+		{
+			"mask": "masks/15.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/16.png":
+		{
+			"mask": "masks/16.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/17.png":
+		{
+			"mask": "masks/17.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/18.png":
+		{
+			"mask": "masks/18.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/19.png":
+		{
+			"mask": "masks/19.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/20.png":
+		{
+			"mask": "masks/20.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/21.png":
+		{
+			"mask": "masks/21.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/22.png":
+		{
+			"mask": "masks/22.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/23.png":
+		{
+			"mask": "masks/23.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/24.png":
+		{
+			"mask": "masks/24.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/25.png":
+		{
+			"mask": "masks/25.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/26.png":
+		{
+			"mask": "masks/26.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/27.png":
+		{
+			"mask": "masks/27.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/28.png":
+		{
+			"mask": "masks/28.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/29.png":
+		{
+			"mask": "masks/29.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/30.png":
+		{
+			"mask": "masks/30.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/31.png":
+		{
+			"mask": "masks/31.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/32.png":
+		{
+			"mask": "masks/32.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/33.png":
+		{
+			"mask": "masks/33.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/34.png":
+		{
+			"mask": "masks/34.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/35.png":
+		{
+			"mask": "masks/35.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/36.png":
+		{
+			"mask": "masks/36.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/37.png":
+		{
+			"mask": "masks/37.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/38.png":
+		{
+			"mask": "masks/38.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/39.png":
+		{
+			"mask": "masks/39.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/40.png":
+		{
+			"mask": "masks/40.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/41.png":
+		{
+			"mask": "masks/41.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/42.png":
+		{
+			"mask": "masks/42.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/43.png":
+		{
+			"mask": "masks/43.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/44.png":
+		{
+			"mask": "masks/44.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/45.png":
+		{
+			"mask": "masks/45.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/46.png":
+		{
+			"mask": "masks/46.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/47.png":
+		{
+			"mask": "masks/47.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/48.png":
+		{
+			"mask": "masks/48.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/49.png":
+		{
+			"mask": "masks/49.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/50.png":
+		{
+			"mask": "masks/50.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/51.png":
+		{
+			"mask": "masks/51.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		},
+		"images/52.png":
+		{
+			"mask": "masks/52.png",
+			"color_categories":
+			{
+				"(0, 0, 255)": {"category": "lego_brick", "super_category": "null"}
+			}
+		}
+	},
+	"super_categories":
+	{
+		"null": ["lego_brick"]
+	}
+}

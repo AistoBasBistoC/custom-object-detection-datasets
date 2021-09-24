@@ -1,0 +1,16 @@
+{
+	"info":
+	{
+		"description": "Lego Brick Dataset",
+		"version": "1",
+		"url": "no-url/datasets.com",
+		"year": 2021,
+		"contributor": "Scott Knowles",
+		"date_created": "09/24/2021"
+	},
+	"license":{
+		"url":"no-url/licenses.com",
+		"id": 0,
+		"name": "testing"
+	}
+}
